@@ -32,6 +32,5 @@ Rusty is a basic API client written in Rust.
 
 After running the executable, you should see output similar to the following:
 
-    ```bash
-    Email: lindsay.ferguson@reqres.in
-    ```
+```markdown
+Email: lindsay.ferguson@reqres.in
